@@ -1,0 +1,15 @@
+{
+  "name": "bondziuktest/Homework6",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "evgenijbonduk",
+      "email": "eugeniy199205@gmail.com"
+
+    }
+  ],
+  "require": {
+  }
+}
